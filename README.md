@@ -132,17 +132,18 @@ By completing this repository, you will be able to:
 
 ---
 
-## Bonus Content
+## [Bonus content!](bonus/)
 
-The repository also includes additional materials to explore advanced and emerging topics:
+We attempted to put as much information into the book without it being overwhelming. However, even with a 400-page book there is still much to discover! 
 
-* Mixture of Experts (MoE)
-* Model Quantization
-* Reasoning in LLMs
-* Diffusion Models
-* Emerging architectures such as Mamba
+We continue to create more guides that compliment the book and go more in-depth into new and [exciting topics]((bonus/)):
 
-These topics provide deeper insight into the evolving landscape of modern AI systems.
+| [A Visual Guide to Mamba](https://newsletter.maartengrootendorst.com/p/a-visual-guide-to-mamba-and-state)             |  [A Visual Guide to Quantization](https://newsletter.maartengrootendorst.com/p/a-visual-guide-to-quantization) | [The Illustrated Stable Diffusion](https://jalammar.github.io/illustrated-stable-diffusion/) |
+:-------------------------:|:-------------------------:|:-------------------------:
+![](images/mamba.png)  |  ![](images/quant.png) |  ![](images/diffusion.png)
+**[A Visual Guide to Mixture of Experts](https://newsletter.maartengrootendorst.com/p/a-visual-guide-to-mixture-of-experts)**  | **[A Visual Guide to Reasoning LLMs](https://newsletter.maartengrootendorst.com/p/a-visual-guide-to-reasoning-llms)**  |  **[The Illustrated DeepSeek-R1](https://newsletter.languagemodels.co/p/the-illustrated-deepseek-r1)**
+![](images/moe.png)  |  ![](images/reasoning.png) |  ![](images/deepseek.png)
+
 
 ---
 
